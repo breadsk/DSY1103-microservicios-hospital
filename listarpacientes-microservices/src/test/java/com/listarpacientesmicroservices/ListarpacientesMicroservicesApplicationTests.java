@@ -1,10 +1,10 @@
-package com.microservice.student;
+package com.listarpacientesmicroservices;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MicroserviceStudentApplicationTests {
+class ListarpacientesMicroservicesApplicationTests {
 
 	@Test
 	void contextLoads() {

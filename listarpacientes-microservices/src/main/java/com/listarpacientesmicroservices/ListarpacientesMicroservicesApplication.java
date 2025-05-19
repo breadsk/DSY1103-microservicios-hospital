@@ -1,13 +1,13 @@
-package com.microservice.student;
+package com.listarpacientesmicroservices;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MicroserviceStudentApplication {
+public class ListarpacientesMicroservicesApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MicroserviceStudentApplication.class, args);
+		SpringApplication.run(ListarpacientesMicroservicesApplication.class, args);
 	}
 
 }
